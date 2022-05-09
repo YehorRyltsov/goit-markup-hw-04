@@ -280,8 +280,14 @@ img {
     background-color:  #2196F3;
     fill: #ffffff;
   }
+  .comand-icon-link:hover{
+    fill: #ffffff;
+  }
   .comand-icon:focus {
     background-color:  #2196F3;
+    fill: #ffffff;
+  }
+  .comand-icon-link:focus{
     fill: #ffffff;
   }
 
