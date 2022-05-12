@@ -361,29 +361,19 @@ img {
   border: 1px solid #afb1b8;
   border-radius: 4px;
 }
-/* .company-icon {
-   position: relative;
-  margin-left: auto;
-  margin-right: auto;
-} */
 .company-icon-link:hover {
   fill: #2196f3;
   border: 1px solid #2196f3;
 }
-/* .company-item:hover .company-icon-link{
-  border: 1px solid #2196f3;
-} */
 .company-icon-link:focus svg {
   fill: #2196f3;
 }
 .company-icon-link:focus {
   border: 1px solid #2196f3;
 }
-
 .company-item:not(:last-child) {
   margin-right: 30px;
 }
-
 .footer {
   background-color: #2f303a;
 }
@@ -486,10 +476,6 @@ img {
 .footer-icon-link:focus {
   background-color: #2196f3;
 }
-/* .footer-icon:focus {
-  background-color: #2196f3;
-} */
-
 .is-hidden {
   visibility: hidden;
   pointer-events: none;
@@ -542,11 +528,6 @@ img {
   box-sizing: border-box;
   width: 1200px;
 }
-/* .hero-portfolio-item {
-  padding-right: 30px;
-  padding-bottom: 30px;
-  border: 1px #eeeeee;
-} */
 .hero-portfolio-item:not(:last-child) {
   margin-right: 30px;
 }
